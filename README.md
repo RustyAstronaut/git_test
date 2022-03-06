@@ -1,2 +1,2 @@
-# odin-project
+# git_test
 learning to program through the odin project
